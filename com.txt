@@ -1,2 +1,4 @@
 hello man 
 how are you 
+git is a collaborative platform 
+also free and open source
