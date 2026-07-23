@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "name": "Sai",
+      "course": "Python",
+      "id": "2"
+    },
+    {
+      "name": "nani",
+      "course": "Python",
+      "id": "3"
+    },
+    {
+      "name": "raja",
+      "course": "Python",
+      "id": "4"
+    },
+    {
+      "name": "raja raja cholaaa",
+      "course": "Python",
+      "id": "5"
+    }
+  ],
+  "mobiles": [
+    {
+      "name": "vivo",
+      "price": "20000",
+      "display": "amoled",
+      "id": "Zso7dPEYN0E"
+    }
+  ],
+  "games": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
