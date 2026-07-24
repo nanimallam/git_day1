@@ -1,0 +1,27 @@
+{
+  "mobiles": [
+    {
+      "name": "vivo x 300",
+      "brand": "vivo",
+      "price": "1.10 lakh",
+      "colour": "gold",
+      "id": "W8Gv9qWqCMU"
+    },
+    {
+      "name": "vivo x 200",
+      "brand": "vivo",
+      "price": "1 lakh",
+      "colour": "black",
+      "id": "IkEVWXuwfjY"
+    },
+    {
+      "name": "samsung s25",
+      "brand": "samsung",
+      "price": "1.25 lakh",
+      "colour": "grey",
+      "id": "L-33WUG15-E"
+    }
+  ],
+  "bikes": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
